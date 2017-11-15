@@ -1,0 +1,141 @@
+.row-header p {
+    font-size: 1.5em;
+}
+
+address a {
+    color: white;
+    text-decoration: none;
+}
+
+#jumbotron-image {
+    width: 100%;
+}
+
+.button {
+    margin-top: 20px;
+    border: 0;
+    outline: none;
+    width: 90%;
+    padding: 15px 0;
+    font-size: 2em;
+    font-weight: 600;
+    letter-spacing: .1em;
+    background: rgba(125, 186, 117, 1);
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.button a {
+    color: white;
+}
+
+.button a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.button:hover, .button:focus {
+    background: rgba(84, 155, 74, 0.9);
+    outline: none;
+}
+
+.row-footer {
+    margin: 0px auto;
+    padding: 20px 0px;
+    background-color: rgba(51, 64, 73, 1.0);
+    color: aliceblue;
+}
+
+#jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background-color: rgba(84, 155, 74, 0.9);
+    color: aliceblue;
+    box-shadow: 5px 5px 3px #888888;
+    margin-bottom: 40px;
+}
+
+div h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+div h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+div h3 {
+    font-weight: bold;
+}
+
+div p {
+    font-size: 1.1em;
+}
+
+address {
+    color: #0f0f0f;
+    font-size: 80%;
+    margin: 0px;
+    color: aliceblue;
+}
+
+button {
+    width: 60%;
+}
+
+.social {
+    padding: 50px 0px;
+    color: aliceblue;
+}
+
+#body-background {
+    background-color: rgba(232, 232, 232, .9);
+}
+
+.alertMessage {
+    color: red;
+}
+
+.navbar {
+    background-color: rgba(125, 186, 117, 1);
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar .active a, .nav-item > a:hover  {
+    color: rgb(64, 119, 56);
+}
+
+body, html {
+    height: 100%;
+}
+
+div img {
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.cool-banner {
+    background-color: rgb(150, 150, 150);
+    color: white;
+    font-size: 1.3em;
+    font-weight: 100;
+    word-spacing: .1em;
+    padding: 50px;
+    margin: 50px 0px;
+}
+
+.box {
+    border-style: solid;
+    border-width: 3px 0px;
+    border-color: rgba(125, 186, 117, 1);
+    padding: 20px 0px;
+    margin: 20px 0px;
+}
